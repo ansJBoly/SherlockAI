@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "sherlockai"
+version = "0.1.0"
+description = "Chatbot Demo to help Ivorian investigators during interrogations."
+authors = ["Jerfried Boly <jerfriedboly@gmail.com>", "Franck Konan <konanfranck1996@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
